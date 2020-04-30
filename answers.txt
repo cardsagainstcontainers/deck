@@ -6,7 +6,7 @@
 "Monolithic applications"
 "Ian Coldwater"
 "Duffie Cooley"
-"Kris Nova"
+"Kris Nóva"
 "Joe Beda"
 "Kelsey Hightower"
 "Craig McLuckie"
