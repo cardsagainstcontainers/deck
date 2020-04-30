@@ -18,7 +18,7 @@ You can open up a pull request directly to this repository, or you can open an i
 
 ### Ordering Cards
 
-You can order a pack of [physical cards](https://go.sysdig.com/cardsagainstcontainers) to be sent to you in the mail courtesy of Sysdig, Inc. 
+You can order a pack of [physical cards](https://go.sysdig.com/cardsagainstcontainers) to be sent to you in the mail courtesy of Sysdig, Inc.   *WHILE SUPPLIES LAST, that sounded salesy!*
 
 <p align="center"><a href="https://twitter.com/jbeda/status/1255651920628207616?s=20"><img src="tweet-joe.png" width="360"></a></p>
 
