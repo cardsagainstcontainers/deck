@@ -91,3 +91,7 @@
 "When everything is on fire, I grab ________ before running out of the building."
 "To improve our security, we decided to store all our sensitive data in ________."
 "The question of 'Will it scale?' was finally answered with ________."
+"________ over my dead body."
+"I had to put ________ in my container to make it working."
+"You missed something if you haven't used the ________ operator."
+"I'm sure ________ will reimplement ________ soon."
