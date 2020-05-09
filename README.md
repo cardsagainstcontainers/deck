@@ -22,6 +22,8 @@ You can open up a pull request directly to this repository, or you can open an i
 
 <p align="center"><a href="https://twitter.com/mauilion/status/1255315212795854848?s=20"><img src="tweet-duffie.png" width="360"></a></p>
 
+### Get Cards
+SOLD OUT! We are currently out of Cards Against Containers decks. If you'd like to be waitlisted and notified if/when a deck becomes available please fill out the form here: https://go.sysdig.com/cardsagainstcontainers
 
 ### Build your own Cards
 
