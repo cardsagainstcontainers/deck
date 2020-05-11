@@ -16,16 +16,14 @@ The text used for the Cards against Containers answers can be found in [answers.
 
 You can open up a pull request directly to this repository, or you can open an issue in the [issue tracker](https://github.com/cardsagainstcontainers/deck/issues)
 
-### Ordering Cards
-
-You can order a pack of [physical cards](https://go.sysdig.com/cardsagainstcontainers) to be sent to you in the mail courtesy of Sysdig, Inc. 
-
 <p align="center"><a href="https://twitter.com/jbeda/status/1255651920628207616?s=20"><img src="tweet-joe.png" width="360"></a></p>
 
 <hr>
 
 <p align="center"><a href="https://twitter.com/mauilion/status/1255315212795854848?s=20"><img src="tweet-duffie.png" width="360"></a></p>
 
+### Get Cards
+SOLD OUT! We are currently out of Cards Against Containers decks. If you'd like to be waitlisted and notified if/when a deck becomes available please fill out the form here: https://go.sysdig.com/cardsagainstcontainers
 
 ### Build your own Cards
 
