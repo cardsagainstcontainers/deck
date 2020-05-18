@@ -99,4 +99,4 @@
 "Instead of a firewall, we implemented ________."
 "We store all the SSH keys in /www/______."
 "Can we go-live with ______ by tomorrow?"
-"Oh yeah, we pushed ______ to production yesterday!"
+"Oh yeah, we pushed ______ to production yesterday! Didn't you know?"
